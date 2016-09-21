@@ -1,0 +1,67 @@
+/*
+ * The Style behind OneMade
+ *
+ * Copyright: Andres Buzzio https://andresbuzzio.github.io/portfolio
+ *
+ */
+
+ /* Reset */
+@import 'https://fonts.googleapis.com/css?family=Lato';
+
+body, html {
+margin: 0;
+}
+
+ul {
+-webkit-margin-before: 0;
+-webkit-margin-after: 0;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 0px;
+}
+
+* {
+font-family: 'Lato', sans-serif;
+}
+
+/* Start */
+
+#blockOne {
+position: relative;
+margin: 0 auto;
+width: 100%;
+padding:10em 0;
+background:#7f8c8d;
+z-index: 2;
+list-style-type: none;
+}
+
+#blockTwo {
+position: relative;
+margin: 0 auto;
+width: 100%;
+padding:10em 0;
+background:#95a5a6;
+z-index: 1;
+list-style-type: none;
+}
+
+#blockThree {
+position: relative;
+margin: 0 auto;
+width: 100%;
+padding:10em 0;
+background:#bdc3c7;
+z-index: 1;
+list-style-type: none;
+}
+
+#blockFour {
+position: relative;
+margin: 0 auto;
+width: 100%;
+padding:10em 0;
+background:#ecf0f1;
+z-index: 1;
+list-style-type: none;
+}
