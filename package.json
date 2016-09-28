@@ -1,0 +1,23 @@
+{
+  "name": "made",
+  "version": "1.0.0",
+  "description": "your site in minutes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madesmart/go.git"
+  },
+  "keywords": [
+    "themes",
+    "store"
+  ],
+  "author": "Andres Buzzio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madesmart/go/issues"
+  },
+  "homepage": "https://github.com/madesmart/go#readme"
+}
