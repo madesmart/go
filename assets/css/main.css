@@ -1701,6 +1701,23 @@ text-decoration: none !important;
 		text-transform:uppercase;;
 	}
 
+	.h3-title-store {
+		font-size: 2em !important;
+		font-weight: 100 !important;
+		margin-top: 0.5em;
+		letter-spacing: 1px;
+		text-transform:uppercase;
+		color:#fff;
+	}
+
+	h2.light {
+	color:#fff;
+	}
+
+	header p.light {
+	color:#fff;
+	}
+
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			text-decoration: none;
 		}
@@ -3149,7 +3166,7 @@ text-decoration: none !important;
 		}
 
 		.wrapper.style-red {
-			background-color: #e74c3c;
+			background-color: #5673E8;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
